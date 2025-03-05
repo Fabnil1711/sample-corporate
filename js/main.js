@@ -1,5 +1,5 @@
 $(function () {
-    $('.header').on('click', function () {
+    $('#header').on('click', function () {
         alert('clicked')
     });
 });
